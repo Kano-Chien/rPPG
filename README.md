@@ -14,8 +14,9 @@ rPPG signals are easily affected by several factors: (1) camera noise, (2) sligh
 
 ## Network Architecture
 <p align="center">
-  <img src="https://github.com/jiaan40504/rPPG/blob/main/rppg/image/Network%20Architecture.png?raw=true">
+  <img src="https://github.com/jiaan40504/rPPG/blob/main/rppg/image/Network%20Architecture.png?raw=true" width=75%>
 </p>
+
 
 ## Loss Function
 <p align="center">
@@ -24,5 +25,8 @@ rPPG signals are easily affected by several factors: (1) camera noise, (2) sligh
 
 ## Result
 <p align="center">
-  <img src="https://github.com/jiaan40504/rPPG/blob/main/rppg/image/Comparison.png?raw=true">
+  <img src="https://github.com/jiaan40504/rPPG/blob/main/rppg/image/Comparison.png?raw=true" style="width:40%;">
 </p>
+
+## Demo
+<https://youtube.com/shorts/eaAvUNmkUa8> 
